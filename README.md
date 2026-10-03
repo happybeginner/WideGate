@@ -45,15 +45,13 @@ python run_tu.py  # use default config
 ## Cite Widegate
 If Widegate could help your project, please cite our work:
 ```
-@INPROCEEDINGS{10992972,
+@inproceedings{liu2025widegate,
+  title={WideGate: Beyond directed acyclic graph learning in subcircuit boundary prediction},
   author={Liu, Jiawei and Liu, Zhiyan and He, Xun and Zhai, Jianwang and Shi, Zhengyuan and Xu, Qiang and Yu, Bei and Shi, Chuan},
-  booktitle={2025 Design, Automation & Test in Europe Conference (DATE)}, 
-  title={WideGate: Beyond Directed Acyclic Graph Learning in Subcircuit Boundary Prediction}, 
+  booktitle={2025 Design, Automation \& Test in Europe Conference (DATE)},
+  pages={1--7},
   year={2025},
-  volume={},
-  number={},
-  pages={1-7},
-  keywords={Training;Adaptation models;Directed acyclic graph;Circuits;Machine learning;Predictive models;Graph neural networks;Logic;Integrated circuit modeling;Optimization},
-  doi={10.23919/DATE64628.2025.10992972}}
+  organization={IEEE}
+}
 ```
 
